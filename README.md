@@ -13,13 +13,11 @@ Tab Snapshot Pro is a lightweight Firefox browser extension that allows you to s
 * 🔒 100% local storage — no data is sent or collected
 * ⚡ Lightweight, fast, and easy to use
 
----
 
 ## 🦊 Supported Browser
 
 * Mozilla Firefox (Manifest Version 3)
 
----
 
 ## 📦 Installation
 
@@ -40,7 +38,6 @@ Install directly from Firefox Add-ons:
 3. Click **This Firefox** → **Load Temporary Add-on**
 4. Select the `manifest.json` file
 
----
 
 ## 🧩 How It Works
 
@@ -51,13 +48,11 @@ Install directly from Firefox Add-ons:
 
 All snapshots are stored locally using Firefox storage.
 
----
 
 ## 🔐 Privacy Policy
 
 Tab Snapshot Pro does **not** collect, transmit, or share any personal data. All tab information is stored locally within your browser and never leaves your device.
 
----
 
 ## 🛠 Tech Stack
 
@@ -68,13 +63,11 @@ Tab Snapshot Pro does **not** collect, transmit, or share any personal data. All
 
 No frameworks, no build tools, no bundlers.
 
----
 
 ## 📄 License
 
 This project is licensed under the **MIT License**.
 
----
 
 ## 🤝 Contributing
 
@@ -82,14 +75,10 @@ Contributions, issues, and feature requests are welcome.
 
 Feel free to fork this repository and submit a pull request.
 
----
-
 ## 📬 Support
 
 If you have any questions or issues, feel free to open an issue or contact:
 
-📧 [support@tabsnapshotpro.example](mailto:support@tabsnapshotpro.example)
-
----
+📧 [support@tabsnapshotpro.example](mailto:support@tabsnapshotpro.com)
 
 ⭐ If you find this extension useful, please consider giving the repository a star!
