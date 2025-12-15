@@ -2,7 +2,7 @@
 
 **Save your tabs, save your RAM.**
 
-Tab Snapshot Pro is a lightweight Firefox browser extension that allows you to save all your open tabs as a snapshot and restore them later with a single click. It helps reduce memory usage and keeps your browsing sessions organized.
+Tab Snapshot Pro is a lightweight browser extension for **Firefox and Google Chrome** that allows you to save all your open tabs as a snapshot and restore them later with a single click. It helps reduce memory usage and keeps your browsing sessions organized.
 
 
 ## ✨ Features
@@ -13,11 +13,10 @@ Tab Snapshot Pro is a lightweight Firefox browser extension that allows you to s
 * 🔒 100% local storage — no data is sent or collected
 * ⚡ Lightweight, fast, and easy to use
 
-
-## 🦊 Supported Browser
+## 🦊 Supported Browsers
 
 * Mozilla Firefox (Manifest Version 3)
-
+* Google Chrome (Manifest Version 3)
 
 ## 📦 Installation
 
@@ -26,6 +25,12 @@ Tab Snapshot Pro is a lightweight Firefox browser extension that allows you to s
 Install directly from Firefox Add-ons:
 
 👉 [https://addons.mozilla.org/addon/tab-snapshot-pro/](https://addons.mozilla.org/addon/tab-snapshot-pro/)
+
+### Google Chrome Web Store
+
+Install directly from Chrome Web Store:
+
+👉 [https://chromewebstore.google.com/detail/tab-snapshot-pro/XXXXXXXXXXXX](https://chromewebstore.google.com/detail/tab-snapshot-pro/XXXXXXXXXXXX)
 
 ### Manual Installation (Developer Mode)
 
@@ -37,7 +42,6 @@ Install directly from Firefox Add-ons:
 2. Open Firefox and go to `about:debugging`
 3. Click **This Firefox** → **Load Temporary Add-on**
 4. Select the `manifest.json` file
-
 
 ## 🧩 How It Works
 
@@ -63,7 +67,6 @@ Tab Snapshot Pro does **not** collect, transmit, or share any personal data. All
 
 No frameworks, no build tools, no bundlers.
 
-
 ## 📄 License
 
 This project is licensed under the **MIT License**.
@@ -74,6 +77,7 @@ This project is licensed under the **MIT License**.
 Contributions, issues, and feature requests are welcome.
 
 Feel free to fork this repository and submit a pull request.
+
 
 ## 📬 Support
 
