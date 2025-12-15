@@ -4,7 +4,6 @@
 
 Tab Snapshot Pro is a lightweight Firefox browser extension that allows you to save all your open tabs as a snapshot and restore them later with a single click. It helps reduce memory usage and keeps your browsing sessions organized.
 
----
 
 ## ✨ Features
 
